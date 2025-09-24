@@ -1,4 +1,4 @@
-package com.amigoscode.product;
+package com.amigoscode;
 
 import org.flywaydb.core.Flyway;
 import org.testcontainers.containers.PostgreSQLContainer;
